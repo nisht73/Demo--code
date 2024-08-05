@@ -1,3 +1,5 @@
 # Demo--code
 this is my first git repository.
-author-Nishant tripathi
+<br>
+author-Nishant tripathi (coder)
+
